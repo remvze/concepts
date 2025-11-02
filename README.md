@@ -48,3 +48,31 @@ A curated collection of essential software engineering concepts and learning res
 - `📃` [Serverless Architecture Overview](https://www.datadoghq.com/knowledge-center/serverless-architecture/)
 - `📃` [Serverless Architecture](https://www.geeksforgeeks.org/system-design/serverless-architectures/)
 - `📃` [What is Serverless Architecture?](https://cloud.google.com/discover/what-is-serverless-architecture)
+
+#### Layered (N-Tier) Architecture
+
+> **ELI5:** Layered (N-Tier) Architecture splits an application into separate layers—like presentation (UI), logic (rules), and data (storage)—so each handles a specific job. This separation makes software easier to build, update, and maintain without breaking other parts.
+
+- `📃` [Layered (N-tier) Architecture](https://blog.longbui.net/layered-pattern)
+- `📃` [Understanding N-Tier Architecture: Building Robust and Scalable Applications](https://medium.com/@segekaratas/understanding-n-tier-architecture-building-robust-and-scalable-applications-62db30a40b5)
+
+---
+
+## Software Development Life Cycle (SDLC) & Methodologies 🔄
+
+### SDLC Models
+
+#### Waterfall Model
+
+> **ELI5:** The Waterfall Model is a step-by-step way to build software, like following a recipe. You finish one stage—planning, designing, building, testing, then delivering—before moving to the next. Once a step is done, you don’t go back, just like water only flows downward.
+
+- `📃` [Waterfall Model - Software Engineering](https://www.geeksforgeeks.org/software-engineering/waterfall-model/)
+- `📃` [Waterfall mode](https://en.wikipedia.org/wiki/Waterfall_model)
+
+#### Agile Model
+
+> **ELI5:** The Agile Model is a flexible way to develop software by breaking work into small, manageable parts called sprints. Teams build, test, and improve the product continuously, getting feedback often to quickly adapt to changes and deliver better results faster.
+
+- `📃` [SDLC - Agile Model](https://www.tutorialspoint.com/sdlc/sdlc_agile_model.htm)
+- `📃` [Agile Development Models - Software Engineering](https://www.geeksforgeeks.org/software-engineering/software-engineering-agile-development-models/)
+- `📃` [What is Agile methodology? (A beginner’s guide)](https://asana.com/resources/agile-methodology)
