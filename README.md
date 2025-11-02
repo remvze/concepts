@@ -76,3 +76,33 @@ A curated collection of essential software engineering concepts and learning res
 - `📃` [SDLC - Agile Model](https://www.tutorialspoint.com/sdlc/sdlc_agile_model.htm)
 - `📃` [Agile Development Models - Software Engineering](https://www.geeksforgeeks.org/software-engineering/software-engineering-agile-development-models/)
 - `📃` [What is Agile methodology? (A beginner’s guide)](https://asana.com/resources/agile-methodology)
+
+#### Lean Software Development
+
+> **ELI5:** ChatGPT said:Lean Software Development is a way to build software efficiently by focusing only on what adds value, cutting waste, improving quality, and empowering the team to make fast decisions. It emphasizes learning quickly, delivering small improvements often, and continuously improving the process.
+
+- `📃` [Lean software development](https://en.wikipedia.org/wiki/Lean_software_development)
+- `📃` [Lean Software Development (LSD)](https://www.geeksforgeeks.org/software-engineering/lean-software-development-lsd/)
+
+#### Extreme Programming (XP)
+
+> **ELI5:** Extreme Programming (XP) is a way to make software by working in small steps, testing often, and constantly improving. Teams write code together, share ideas, and adapt quickly to changes, aiming for high-quality software that meets users’ needs efficiently and with less risk of mistakes.
+
+- `📃` [Extreme programming](https://en.wikipedia.org/wiki/Extreme_programming)
+- `📃` [What is Extreme Programming (XP)?](https://www.geeksforgeeks.org/software-engineering/software-engineering-extreme-programming-xp/)
+
+#### Spiral Model
+
+> **ELI5:** The Spiral Model is a way to develop software step by step, like moving around a spiral. Each loop plans, builds, tests, and reviews, letting developers catch problems early and improve the design before starting the next loop. It’s flexible and risk-focused.
+
+- `📃` [Spiral model](https://en.wikipedia.org/wiki/Spiral_model)
+- `📃` [What is Spiral Model in Software Engineering?](https://www.geeksforgeeks.org/software-engineering/software-engineering-spiral-model/)
+- `📃` [What is the spiral model and how is it used?](https://www.techtarget.com/searchsoftwarequality/definition/spiral-model)
+- `📃` [SDLC - Spiral Model](https://www.tutorialspoint.com/sdlc/sdlc_spiral_model.htm)
+
+#### V-Model (Verification and Validation Model)
+
+> **ELI5:** The V-Model is a software development approach shaped like a “V” that links each development step with a corresponding testing step. On the left, you plan and design; at the bottom, you build; on the right, you test and validate, ensuring the product meets requirements.
+
+- `📃` [SDLC - V-Model](https://www.tutorialspoint.com/sdlc/sdlc_v_model.htm)
+- `📃` [SDLC V-Model - Software Engineering](https://www.geeksforgeeks.org/software-engineering/software-engineering-sdlc-v-model/)
