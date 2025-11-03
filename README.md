@@ -33,3 +33,21 @@ A curated collection of essential software engineering concepts and learning res
 - `📃` [Don't repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
 - `📃` [DRY Principle in Software Development](https://www.geeksforgeeks.org/software-engineering/dont-repeat-yourselfdry-in-software-development/)
 </details>
+
+<details>
+<summary>YAGNI Principle</summary>
+
+> **ELI5:** The YAGNI principle, short for “You Aren’t Gonna Need It,” means you should only build features you truly need right now, not things you might need in the future. It helps keep code simple, avoids wasted effort, and prevents overcomplicating projects.
+
+- `📃` [You aren't gonna need it](https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it)
+- `📃` [YAGNI Principle in Software Development](https://www.geeksforgeeks.org/software-engineering/what-is-yagni-principle-you-arent-gonna-need-it/)
+</details>
+
+<details>
+<summary>GRASP Patterns</summary>
+
+> **ELI5:** GRASP (General Responsibility Assignment Software Patterns) are simple guidelines for deciding which class or object should do what in a program. They help organize responsibilities, promote reuse, and keep code flexible by assigning tasks based on patterns like Creator, Controller, or Information Expert.
+
+- `📃` [GRASP (object-oriented design)](<https://en.wikipedia.org/wiki/GRASP_(object-oriented_design)>)
+- `📃` [GRASP Design Principles in OOAD](https://www.geeksforgeeks.org/system-design/grasp-design-principles-in-ooad/)
+</details>
