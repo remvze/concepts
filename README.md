@@ -25,7 +25,7 @@ A curated collection of essential software engineering concepts and learning res
 
 #### Service-Oriented Architecture (SOA)
 
-> **ELI5:** ChatGPT said:Service-Oriented Architecture (SOA) is like a toolbox where each tool (service) does one job well—such as handling payments or sending emails—and all the tools can work together easily, even if they’re made by different people or use different technologies.
+> **ELI5:** Service-Oriented Architecture (SOA) is like a toolbox where each tool (service) does one job well—such as handling payments or sending emails—and all the tools can work together easily, even if they’re made by different people or use different technologies.
 
 - `📃` [Service-oriented architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)
 - `📃` [What is SOA (Service-Oriented Architecture)?](https://aws.amazon.com/what-is/service-oriented-architecture/)
@@ -79,7 +79,7 @@ A curated collection of essential software engineering concepts and learning res
 
 #### Lean Software Development
 
-> **ELI5:** ChatGPT said:Lean Software Development is a way to build software efficiently by focusing only on what adds value, cutting waste, improving quality, and empowering the team to make fast decisions. It emphasizes learning quickly, delivering small improvements often, and continuously improving the process.
+> **ELI5:** Lean Software Development is a way to build software efficiently by focusing only on what adds value, cutting waste, improving quality, and empowering the team to make fast decisions. It emphasizes learning quickly, delivering small improvements often, and continuously improving the process.
 
 - `📃` [Lean software development](https://en.wikipedia.org/wiki/Lean_software_development)
 - `📃` [Lean Software Development (LSD)](https://www.geeksforgeeks.org/software-engineering/lean-software-development-lsd/)
@@ -97,7 +97,6 @@ A curated collection of essential software engineering concepts and learning res
 
 - `📃` [Spiral model](https://en.wikipedia.org/wiki/Spiral_model)
 - `📃` [What is Spiral Model in Software Engineering?](https://www.geeksforgeeks.org/software-engineering/software-engineering-spiral-model/)
-- `📃` [What is the spiral model and how is it used?](https://www.techtarget.com/searchsoftwarequality/definition/spiral-model)
 - `📃` [SDLC - Spiral Model](https://www.tutorialspoint.com/sdlc/sdlc_spiral_model.htm)
 
 #### V-Model (Verification and Validation Model)
@@ -106,3 +105,15 @@ A curated collection of essential software engineering concepts and learning res
 
 - `📃` [SDLC - V-Model](https://www.tutorialspoint.com/sdlc/sdlc_v_model.htm)
 - `📃` [SDLC V-Model - Software Engineering](https://www.geeksforgeeks.org/software-engineering/software-engineering-sdlc-v-model/)
+
+#### Feature-Driven Development (FDD)
+
+> **ELI5:** Feature-Driven Development (FDD) is an agile method that builds software by creating small, useful features one at a time. Each feature follows clear steps—plan, design, build, and test—helping teams deliver working parts quickly while keeping the project organized and easy to manage.
+
+- `📃` [Feature-driven development](https://en.wikipedia.org/wiki/Feature-driven_development)
+
+#### Iterative and Incremental Development
+
+> **ELI5:** Iterative and Incremental Development means building a project step by step. You create a small, working part first (incremental), then keep improving and adding more parts through repeated cycles (iterative), learning and fixing along the way until the final product is complete.
+
+- `📃` [Iterative and incremental development](https://en.wikipedia.org/wiki/Iterative_and_incremental_development)
