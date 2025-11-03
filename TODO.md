@@ -1,10 +1,10 @@
 ## Software Design Principles
 
-- SOLID Principles
-- KISS Principle
-- DRY Principle
-- YAGNI Principle
-- GRASP Patterns
+- SOLID Principles [*]
+- KISS Principle [*]
+- DRY Principle [*]
+- YAGNI Principle [*]
+- GRASP Patterns [*]
 - Law of Demeter
 - Separation of Concerns
 - Encapsulation
