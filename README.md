@@ -92,6 +92,8 @@ A curated collection of essential software engineering concepts and learning res
 - `📃` [Spiral model](https://en.wikipedia.org/wiki/Spiral_model)
 </details>
 
+---
+
 ## 🏛️ Architectural Patterns
 
 <details>
