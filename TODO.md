@@ -25,7 +25,7 @@
 
 - [*] Waterfall Model
 - [*] V-Model
-- Spiral Model
+- [*] Spiral Model
 - Agile Methodology
 - Scrum Framework
 - Kanban
@@ -46,8 +46,8 @@
 
 ## Architectural Patterns
 
-- Layered Architecture
-- Microservices
+- [*] Layered Architecture
+- [*] Microservices
 - Serverless Architecture
 - Event-Driven Architecture
 - Hexagonal Architecture

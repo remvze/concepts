@@ -91,3 +91,24 @@ A curated collection of essential software engineering concepts and learning res
 - `📃` [What is Spiral Model in Software Engineering?](https://www.geeksforgeeks.org/software-engineering/software-engineering-spiral-model/)
 - `📃` [Spiral model](https://en.wikipedia.org/wiki/Spiral_model)
 </details>
+
+## 🏛️ Architectural Patterns
+
+<details>
+<summary><strong>Layered Architecture</strong></summary>
+
+> **ELI5:** Layered architecture is a software design pattern that organizes code into separate layers, each with a specific role—like presentation, business logic, and data access—so changes in one layer don’t break others, improving maintainability, scalability, and clarity.
+
+- `📃` [Understanding the Layered Architecture Pattern: A Comprehensive Guide](https://dev.to/yasmine_ddec94f4d4/understanding-the-layered-architecture-pattern-a-comprehensive-guide-1e2j)
+- `📃` [Understanding N-Tier Architecture: Building Robust and Scalable Applications](https://medium.com/@segekaratas/understanding-n-tier-architecture-building-robust-and-scalable-applications-62db30a40b5)
+</details>
+
+<details>
+<summary><strong>Microservices</strong></summary>
+
+> **ELI5:** Microservices architecture is a way of building software where an application is divided into small, independent services. Each service focuses on a specific function, communicates with others through APIs, and can be developed, deployed, and scaled separately for greater flexibility and reliability.
+
+- `📃` [Microservices](https://en.wikipedia.org/wiki/Microservices)
+- `📃` [What is Microservices Architecture?](https://cloud.google.com/learn/what-is-microservices-architecture)
+- `📃` [What are Microservices?](https://www.geeksforgeeks.org/system-design/microservices/)
+</details>
