@@ -4,7 +4,7 @@ A curated collection of essential software engineering concepts and learning res
 
 ---
 
-## Software Design Principles 🗺️
+## 🗺️ Software Design Principles
 
 <details>
 <summary><strong>SOLID Principles</strong></summary>
@@ -58,4 +58,27 @@ A curated collection of essential software engineering concepts and learning res
 > **ELI5:** The Law of Demeter, or “principle of least knowledge,” advises that an object should only interact with its immediate collaborators. This reduces dependencies, makes code easier to maintain, and prevents tightly coupled, fragile systems.
 
 - `📃` [Law of Demeter](https://en.wikipedia.org/wiki/Law_of_Demeter)
+</details>
+
+---
+
+## 🏗️ Software Development Life Cycle (SDLC) & Methodologies
+
+<details>
+<summary><strong>Waterfall Model</strong></summary>
+
+> **ELI5:** The Waterfall Model is a step-by-step approach to software development where each phase—like planning, designing, building, testing, and delivering—must be finished before moving to the next. It’s clear and structured but hard to change once a step is complete.
+
+- `📃` [Waterfall model](https://en.wikipedia.org/wiki/Waterfall_model)
+- `📃` [Waterfall Model - Software Engineering](https://www.geeksforgeeks.org/software-engineering/waterfall-model/)
+- `📃` [SDLC - Waterfall Model](https://www.tutorialspoint.com/sdlc/sdlc_waterfall_model.htm)
+</details>
+
+<details>
+<summary><strong>V-Model</strong></summary>
+
+> **ELI5:** The V-Model is a software development approach that emphasizes verification and validation at each stage. Development steps on the left side (like design and coding) are matched with corresponding testing steps on the right, ensuring every requirement is tested and confirmed before release.
+
+- `📃` [V-model](https://en.wikipedia.org/wiki/V-model)
+- `📃` [SDLC V-Model - Software Engineering](https://www.geeksforgeeks.org/software-engineering/software-engineering-sdlc-v-model/)
 </details>

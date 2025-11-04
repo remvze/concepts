@@ -23,8 +23,8 @@
 
 ## Software Development Life Cycle (SDLC) & Methodologies
 
-- Waterfall Model
-- V-Model
+- [*] Waterfall Model
+- [*] V-Model
 - Spiral Model
 - Agile Methodology
 - Scrum Framework
