@@ -82,3 +82,12 @@ A curated collection of essential software engineering concepts and learning res
 - `📃` [V-model](https://en.wikipedia.org/wiki/V-model)
 - `📃` [SDLC V-Model - Software Engineering](https://www.geeksforgeeks.org/software-engineering/software-engineering-sdlc-v-model/)
 </details>
+
+<details>
+<summary><strong>Spiral Model</strong></summary>
+
+> **ELI5:** The Spiral Model is a software development approach that combines iterative design and risk management. Projects progress through repeated cycles—or “spirals”—of planning, designing, building, and evaluating, allowing teams to refine requirements and reduce risks before committing to larger development stages.
+
+- `📃` [What is Spiral Model in Software Engineering?](https://www.geeksforgeeks.org/software-engineering/software-engineering-spiral-model/)
+- `📃` [Spiral model](https://en.wikipedia.org/wiki/Spiral_model)
+</details>
